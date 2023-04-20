@@ -1,0 +1,46 @@
+
+form {
+    width: 30%;
+    margin: 100px auto;
+    padding: 25px 25px 25px 30px;
+    border: 7px solid #312f2f;
+    border-radius: 50px 50px 50px 50px;
+  }
+  
+  html {
+    font-size: 16px;
+  }
+  
+  body {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-style: revert-layer; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to right,purple,red);
+    
+    
+  }
+  input {
+    width: 90%;
+    border: 7px solid #000000;
+    display: block;
+    padding: 5px 10px;
+  }
+  button {
+    border: none;
+    background-color: rgb(53, 53, 56);
+    color: #8c1a80;
+    padding: 20px;
+    border-radius: 6px;
+  }
+  table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 100px auto;
+  }
+  th,
+  td {
+    height: 50px;
+    vertical-align: center;
+    border: 8px solid black;
+  }
